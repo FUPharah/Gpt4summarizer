@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="90"
+   height="30"
+   viewBox="0 0 300 101.4910110983811"
+   class="css-1j8o68f"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="logo.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview14"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="13.444444"
+     inkscape:cx="32.876033"
+     inkscape:cy="12.793388"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <defs
+     id="SvgjsDefs10989">
+    <rect
+       x="25.884298"
+       y="2.5289256"
+       width="62.330579"
+       height="25.735537"
+       id="rect329" />
+    <rect
+       x="57.272727"
+       y="9.0743802"
+       width="13.760331"
+       height="10.413223"
+       id="rect323" />
+    <rect
+       x="30.049587"
+       y="9.0743802"
+       width="54.818181"
+       height="20.305785"
+       id="rect261" />
+    <rect
+       x="28.041322"
+       y="6.2479339"
+       width="58.090909"
+       height="20.826446"
+       id="rect251" />
+    <rect
+       x="39.049587"
+       y="7.3636364"
+       width="46.190083"
+       height="15.545454"
+       id="rect245" />
+    <linearGradient
+       id="SvgjsLinearGradient10994">
+      <stop
+         id="SvgjsStop10995"
+         stop-color="#ef4136"
+         offset="0" />
+      <stop
+         id="SvgjsStop10996"
+         stop-color="#fbb040"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     id="SvgjsG10990"
+     featurekey="hmhgWD-0"
+     transform="matrix(0.8277789588550654,0,0,0.8277789588550654,-1.4980845825363693,20.448785234598923)"
+     fill="url(#SvgjsLinearGradient10994)">
+    <path
+       style="fill:#24221c;stroke-width:4.08688"
+       id="path503"
+       sodipodi:type="arc"
+       sodipodi:cx="70.847885"
+       sodipodi:cy="37.765278"
+       sodipodi:rx="54.41293"
+       sodipodi:ry="49.701195"
+       sodipodi:start="0.67236006"
+       sodipodi:end="5.3974206"
+       sodipodi:arc-type="slice"
+       d="M 113.41805,68.720878 A 54.41293,49.701195 0 0 1 55.662693,85.491835 54.41293,49.701195 0 0 1 16.744418,43.058453 54.41293,49.701195 0 0 1 44.940978,-5.9410622 54.41293,49.701195 0 0 1 105.27481,-0.72327974 L 70.847885,37.765278 Z" />
+    <path
+       style="fill:#071ee9;stroke-width:4.08688;opacity:1;fill-opacity:1"
+       id="path516"
+       sodipodi:type="arc"
+       sodipodi:cx="70.6959"
+       sodipodi:cy="38.525238"
+       sodipodi:rx="41.797642"
+       sodipodi:ry="38.301838"
+       sodipodi:start="0.67236006"
+       sodipodi:end="0.59790192"
+       sodipodi:arc-type="arc"
+       d="M 103.39645,62.38093 A 41.797642,38.301838 0 0 1 45.276083,68.929677 41.797642,38.301838 0 0 1 37.04905,15.80141 41.797642,38.301838 0 0 1 94.863148,7.2748613 41.797642,38.301838 0 0 1 105.24242,60.085711"
+       sodipodi:open="true" />
+  </g>
+  <g
+     id="SvgjsG10991"
+     featurekey="1RRcwp-0"
+     transform="matrix(4.1390814,0,0,4.1390814,87.030427,-0.81713087)"
+     fill="#000000" />
+  <text
+     xml:space="preserve"
+     transform="matrix(3.3830337,0,0,3.3830337,-2.2365166,0)"
+     id="text243"
+     style="white-space:pre;shape-inside:url(#rect245);fill:#484537" />
+  <text
+     xml:space="preserve"
+     transform="matrix(3.3830337,0,0,3.3830337,-2.2365166,0)"
+     id="text249"
+     style="white-space:pre;shape-inside:url(#rect251);fill:#484537" />
+  <text
+     xml:space="preserve"
+     transform="matrix(3.3830337,0,0,3.3830337,-2.2365166,0)"
+     id="text321"
+     style="fill:#484537;font-size:8px;writing-mode:lr-tb;direction:ltr;text-align:center;-inkscape-font-specification:'Calibri Bold Italic';font-family:Calibri;font-weight:bold;font-style:italic;font-stretch:normal;font-variant:normal;white-space:pre;shape-inside:url(#rect323)" />
+  <text
+     xml:space="preserve"
+     transform="matrix(3.3830337,0,0,3.3830337,-2.2365166,0)"
+     id="text327"
+     style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold Italic';text-align:center;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect329);fill:#424837;fill-opacity:1"><tspan
+       x="45.310184"
+       y="11.86266"
+       id="tspan20467"><tspan
+         style="fill:#ff7f2a"
+         id="tspan20465">Can's </tspan></tspan><tspan
+       x="30.620034"
+       y="25.196036"
+       id="tspan20471"><tspan
+         style="fill:#ff7f2a"
+         id="tspan20469">Summarizer</tspan></tspan></text>
+</svg>
